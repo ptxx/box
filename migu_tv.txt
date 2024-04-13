@@ -322,3 +322,5 @@ https://livednow.com/migu/625133682?sign=gAAAAABmGmjfLNHgyNlNR-HyaA_nDi_sJQ7AaYK
 #EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/462/658/1711611708759_V34_sc.jpg" group-title="其他",华语乐坛最强音
 https://livednow.com/migu/707671890?sign=gAAAAABmGmjfQ7GXieql9yx-KNWrHKuYDpPrcNgeFUcihJqWonRCSENhXjqj7XqIhBUJAHINwTWX--4jWtBd3mvOK9sVAnppmmpRg6uBbjogbW7OpOvllcAe0rwiWs0NrPM42GLBBjfx2e5z0gecF4OcDcmPhN4uWcdawnXTTCmYPUxfvEWktG5PeUQxNwR1LvzCampPzTQTI-ibWRmrOHSu7-_IIcMvog%3D%3D
 
+#EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/462/658/1711611708759_V34_sc.jpg" group-title="咪咕体育",华语乐坛最强音
+https://livednow.com/migu/list?id=274821514&token=nlpsC83CD071405454AD2159
