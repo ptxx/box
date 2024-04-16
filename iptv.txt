@@ -98,6 +98,30 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢笑剧场4k,http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
+1905电影01,http://xxw.me0.cn/1905dy.php?id=1905a
+1905电影02,http://xxw.me0.cn/1905dy.php?id=1905b
+4K影院画质,http://159.75.85.63:35455/douyu/9249162
+乌克兰影院,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+全球大片 8M,http://mywlkj.ddns.net:754/tv/bst8m.php?id=75
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+冰冰经典代,http://159.75.85.63:35455/douyu/74374
+华语影院 8M,http://mywlkj.ddns.net:754/tv/bst8m.php?id=71
+喜剧电影,http://159.75.85.63:35455/douyu/9292492
+大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
+女神电影,http://159.75.85.63:35455/douyu/747764
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
+星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星星影院,http://159.75.85.63:35455/douyu/315131
+漫威剧情,http://159.75.85.63:35455/douyu/6140589
+番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+经典功夫台,http://cfss.cc/cdn/yy/1355002394.flv
+经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+谍战剧场 8M,http://mywlkj.ddns.net:754/tv/bst8m.php?id=73
+豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+避风影院,http://159.75.85.63:35455/douyu/9826611
+重温经典,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+電影劇場,http://159.75.85.63:35455/douyu/7575350
 
 数字频道,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -124,4 +148,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 4K 高清,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-「江苏」苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
