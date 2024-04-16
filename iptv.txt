@@ -84,7 +84,7 @@ CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/i
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 
-电影轮播douyu,#genre#
+电影DOUYU,#genre#
 電影劇場,http://159.75.85.63:35455/douyu/7575350
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
 避风影院,http://159.75.85.63:35455/douyu/9826611
@@ -98,7 +98,7 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 4K影院画质,http://159.75.85.63:35455/douyu/9249162
 冰冰经典代,http://159.75.85.63:35455/douyu/74374
 
-🎗电影huya,#genre#
+电影HUYA,#genre#
 电影_星爷,https://tv-cyan.vercel.app/huya/11342412?media=hls&cdn=txcdn
 电影_英叔,https://tv-cyan.vercel.app/huya/11342421?media=hls&cdn=txcdn
 电影_发哥,https://tv-cyan.vercel.app/huya/11342387?media=hls&cdn=txcdn
@@ -212,7 +212,7 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 剧集_地下交通站,https://tv-cyan.vercel.app/huya/11342433?media=hls&cdn=txcdn
 剧集_邻里一家亲,https://tv-cyan.vercel.app/huya/11342426?media=hls&cdn=txcdn
 
-🔫埋堆堆,#genre#
+埋堆堆HUYA,#genre#
 埋堆堆1,https://tv-cyan.vercel.app/huya/23749096?media=hls&cdn=txcdn
 埋堆堆2,https://tv-cyan.vercel.app/huya/23735126?media=hls&cdn=txcdn
 埋堆堆3,https://tv-cyan.vercel.app/huya/23865152?media=hls&cdn=txcdn
@@ -275,8 +275,8 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 埋堆堆60,https://tv-cyan.vercel.app/huya/23903164?media=hls&cdn=txcdn
 埋堆堆61,https://tv-cyan.vercel.app/huya/23728674?media=hls&cdn=txcdn
 
-❤️虎牙影视轮播,#genre#
-周星驰,https://live.metshop.top/huya/11342412
+虎牙影视轮播,#genre#
+周星驰,https://live.metshop.top/huya/11342412?media=hls&cdn=txcdn
 
 电影剧集,#genre#
 1905电影01,http://xxw.me0.cn/1905dy.php?id=1905a
