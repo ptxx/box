@@ -190,9 +190,16 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 埋堆堆4,https://live.metshop.top/huya/23903196?media=hls&cdn=txcdn
 埋堆堆5,https://live.metshop.top/huya/23740156?media=hls&cdn=txcdn
 埋堆堆6,https://live.metshop.top/huya/23728660?media=hls&cdn=txcdn
+埋堆堆7,https://live.metshop.top/huya/23865080?media=hls&cdn=txcdn
 埋堆堆8,https://live.metshop.top/huya/23865058?media=hls&cdn=txcdn
 埋堆堆9,https://live.metshop.top/huya/23734183?media=hls&cdn=txcdn
+埋堆堆10,https://live.metshop.top/huya/23903123?media=hls&cdn=txcdn
 埋堆堆11,https://live.metshop.top/huya/23865036?media=hls&cdn=txcdn
+埋堆堆12,https://live.metshop.top/huya/23864973?media=hls&cdn=txcdn
+埋堆堆13,https://live.metshop.top/huya/23860039?media=hls&cdn=txcdn
+埋堆堆14,https://live.metshop.top/huya/23734256?media=hls&cdn=txcdn
+埋堆堆15,https://live.metshop.top/huya/23829543?media=hls&cdn=txcdn
+埋堆堆16,https://live.metshop.top/huya/23865161?media=hls&cdn=txcdn
 埋堆堆23,https://live.metshop.top/huya/23734246?media=hls&cdn=txcdn
 埋堆堆28,https://live.metshop.top/huya/23863796?media=hls&cdn=txcdn
 埋堆堆30,https://live.metshop.top/huya/23749083?media=hls&cdn=txcdn
