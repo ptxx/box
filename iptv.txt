@@ -85,8 +85,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 
 电影DOUYU,#genre#
-電影劇場,http://159.75.85.63:35455/douyu/7575350
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+電影劇場,http://159.75.85.63:35455/douyu/7575350
+华语经典,http://159.75.85.63:35455/douyu/85894
 周星驰电影,http://159.75.85.63:35455/douyu/122402
 成龙电影,http://159.75.85.63:35455/douyu/8107217
 漫威影院,http://159.75.85.63:35455/douyu/6140589
