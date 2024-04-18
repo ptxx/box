@@ -211,9 +211,6 @@ X战警,http://159.75.85.63:35455/douyu/9651304
 埋堆堆56,https://live.metshop.top/huya/23734169?media=hls&cdn=txcdn
 埋堆堆61,https://live.metshop.top/huya/23728674?media=hls&cdn=txcdn
 
-虎牙影视轮播,#genre#
-周星驰,https://live.metshop.top/huya/11342412?media=hls&cdn=txcdn
-
 电影剧集,#genre#
 1905电影01,http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影02,http://xxw.me0.cn/1905dy.php?id=1905b
