@@ -100,7 +100,10 @@ X战警,http://159.75.85.63:35455/douyu/9651304
 
 电影HUYA,#genre#
 周星驰01,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=txcdn
-周星驰01,http://159.75.85.63:35455/huya/11342412?media=flv&cdn=hycdn
+周星驰01,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=alicdn
+周星驰01,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=hwcdn
+周星驰01,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=hscdn
+周星驰01,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=wscdn
 周星驰02,http://159.75.85.63:35455/huya/11336587?media=hls&cdn=txcdn
 电影_英叔,http://159.75.85.63:35455/huya/11342421?media=hls&cdn=txcdn
 电影_发哥,http://159.75.85.63:35455/huya/11342387?media=hls&cdn=txcdn
