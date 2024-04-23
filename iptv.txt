@@ -113,9 +113,9 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 X战警,http://159.75.85.63:35455/douyu/9651304
 
 电影HUYA,#genre#
-郭德纲01,https://apiurl.v1.mk/huya/28274529?media=hls&cdn=txcdn
-郭德纲02,https://apiurl.v1.mk/huya/29807256?media=hls&cdn=txcdn
-周星驰,https://iptv.pstyle.xyz/huya/11342412?media=hls&cdn=txcdn
+郭德纲01,http://159.75.85.63:35455/huya/28274529?media=hls&cdn=txcdn
+郭德纲02,http://159.75.85.63:35455/huya/29807256?media=hls&cdn=txcdn
+周星驰,http://159.75.85.63:35455/huya/11342412?media=hls&cdn=txcdn
 电影_英叔,http://159.75.85.63:35455/huya/11342421?media=hls&cdn=txcdn
 电影_发哥,http://159.75.85.63:35455/huya/11342387?media=hls&cdn=txcdn
 电影_成龙,http://159.75.85.63:35455/huya/11342386?media=hls&cdn=txcdn
