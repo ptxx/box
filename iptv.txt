@@ -106,7 +106,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 成龙电影,https://iptv.pstyle.xyz/douyu/8107217
 漫威影院,https://iptv.pstyle.xyz/douyu/6140589
 漫威影院,https://iptv.pstyle.xyz/douyu/11673725
-漫威影院,https://iptv.pstyle.xyz/douyu/13449517
 恐怖惊悚,https://iptv.pstyle.xyz/douyu/96577
 喜剧电影,https://iptv.pstyle.xyz/douyu/9292492
 4K影院,https://iptv.pstyle.xyz/douyu/9249162
